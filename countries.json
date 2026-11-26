@@ -1,86 +1,86 @@
 [
   [
-    "Туреччина",
     "Turkey",
-    "Анталія, Бодрум, Кемер, Аланія",
+    "Turkey",
+    "Antalya, Bodrum, Kemer, Alanya",
     "https://images.unsplash.com/photo-1602002418082-a4443e081dd1?auto=format&fit=crop&w=1000&q=85",
-    "Пляжний відпочинок, готелі all inclusive та сімейні курорти."
+    "Beach holidays, all-inclusive hotels and family-friendly resorts."
   ],
   [
-    "Єгипет",
     "Egypt",
-    "Шарм-ель-Шейх, Хургада, Марса-Алам",
+    "Egypt",
+    "Sharm El Sheikh, Hurghada, Marsa Alam",
     "https://images.unsplash.com/photo-1539650116574-75c0c6d73f6e?auto=format&fit=crop&w=1000&q=85",
-    "Червоне море, коралові рифи, сонце та відпочинок біля моря."
+    "The Red Sea, coral reefs, sunshine and seaside relaxation."
   ],
   [
-    "Греція",
     "Greece",
-    "Крит, Родос, Корфу, Кос",
+    "Greece",
+    "Crete, Rhodes, Corfu, Kos",
     "https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1000&q=85",
-    "Острови, мальовничі бухти, історія та середземноморська кухня."
+    "Islands, scenic bays, history and Mediterranean cuisine."
   ],
   [
-    "Іспанія",
     "Spain",
-    "Барселона, Майорка, Коста-Брава",
+    "Spain",
+    "Barcelona, Mallorca, Costa Brava",
     "https://images.unsplash.com/photo-1539037116277-4db20889f2d4?auto=format&fit=crop&w=1000&q=85",
-    "Міські подорожі, пляжі, архітектура та яскрава культура."
+    "City breaks, beaches, architecture and vibrant culture."
   ],
   [
-    "Італія",
     "Italy",
-    "Рим, Венеція, Сицилія, Ріміні",
+    "Italy",
+    "Rome, Venice, Sicily, Rimini",
     "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?auto=format&fit=crop&w=1000&q=85",
-    "Мистецтво, гастрономія, узбережжя та романтичні міста."
+    "Art, food, coastlines and romantic cities."
   ],
   [
-    "Кіпр",
     "Cyprus",
-    "Айя-Напа, Пафос, Ларнака",
+    "Cyprus",
+    "Ayia Napa, Paphos, Larnaca",
     "https://images.unsplash.com/photo-1498307833015-e7b400441eb8?auto=format&fit=crop&w=1000&q=85",
-    "Сонячні пляжі, тепле море та спокійний середземноморський відпочинок."
+    "Sunny beaches, warm seas and relaxed Mediterranean holidays."
   ],
   [
-    "ОАЕ",
+    "United Arab Emirates",
     "UAE",
-    "Дубай, Абу-Дабі, Рас-ель-Хайма",
+    "Dubai, Abu Dhabi, Ras Al Khaimah",
     "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1000&q=85",
-    "Сучасні міста, пляжні готелі, шопінг та вражаюча архітектура."
+    "Modern cities, beach resorts, shopping and striking architecture."
   ],
   [
-    "Таїланд",
     "Thailand",
-    "Пхукет, Крабі, Самуї, Бангкок",
+    "Thailand",
+    "Phuket, Krabi, Koh Samui, Bangkok",
     "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1000&q=85",
-    "Тропічні острови, екзотична природа та насичені екскурсії."
+    "Tropical islands, exotic nature and exciting excursions."
   ],
   [
-    "Чорногорія",
     "Montenegro",
-    "Будва, Котор, Тіват",
+    "Montenegro",
+    "Budva, Kotor, Tivat",
     "https://images.unsplash.com/photo-1509840841025-9088ba78a826?auto=format&fit=crop&w=1000&q=85",
-    "Адриатичне узбережжя, гори, затишні міста та бухти."
+    "The Adriatic coast, mountains, charming towns and bays."
   ],
   [
-    "Болгарія",
     "Bulgaria",
-    "Сонячний Берег, Несебр, Золоті Піски",
+    "Bulgaria",
+    "Sunny Beach, Nessebar, Golden Sands",
     "https://images.unsplash.com/photo-1500375592092-40eb2168fd21?auto=format&fit=crop&w=1000&q=85",
-    "Пляжний відпочинок на Чорному морі та сімейні курорти."
+    "Black Sea beach holidays and family-friendly resorts."
   ],
   [
-    "Ізраїль",
     "Israel",
-    "Тель-Авів, Єрусалим, Ейлат",
+    "Israel",
+    "Tel Aviv, Jerusalem, Eilat",
     "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1000&q=85",
-    "Море, історичні місця, культурні маршрути та відпочинок."
+    "Seaside escapes, historic sites, cultural routes and relaxation."
   ],
   [
-    "Албанія",
     "Albania",
-    "Саранда, Ксаміл, Вльора",
+    "Albania",
+    "Sarandë, Ksamil, Vlorë",
     "https://images.unsplash.com/photo-1530789253388-582c481c54b0?auto=format&fit=crop&w=1000&q=85",
-    "Мальовниче узбережжя, прозора вода та затишні курорти."
+    "Scenic coastline, crystal-clear water and charming resorts."
   ]
 ]
