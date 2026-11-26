@@ -1,0 +1,26 @@
+<!doctype html><html lang="uk"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="Time To Travel — туристичні напрямки, пропозиції та бронювання подорожей."><title>Контакти | Time To Travel</title><link rel="stylesheet" href="style.css"></head><body>
+<div class="topbar"><div class="wrap"><span>Подорожі, які надихають</span><span>Time To Travel · туристичний сервіс</span></div></div>
+<header><div class="wrap nav">
+<a class="brand" href="index.html" aria-label="Time To Travel — головна"><img src="assets/logo.png" alt="Time To Travel"></a>
+<button class="menu" aria-label="Відкрити меню" onclick="document.querySelector('.links').classList.toggle('open')">☰</button>
+<nav class="links">
+<a href="index.html" data-nav="home">Головна</a><a href="countries.html" data-nav="countries">Країни</a><a href="hot-tours.html" data-nav="hot">Гарячі тури</a><a href="early-booking.html" data-nav="early">Раннє бронювання</a><a href="about.html" data-nav="about">Про нас</a><a href="contacts.html" data-nav="contacts">Контакти</a>
+</nav></div></header>
+<script>document.querySelector('[data-nav="contacts"]')?.classList.add('active');</script>
+<section class="page-hero"><div class="wrap"><div class="kicker" style="color:#b9e8ff">Ми на зв'язку</div><h1>Розкажіть, якою буде ваша подорож</h1><p>Надішліть запит із бажаним напрямком — допоможемо уточнити варіанти, дати та умови.</p></div></section>
+<main class="wrap section"><div class="info-grid">
+<div class="info-card"><h3>Запит на подорож</h3><p>Вкажіть країну, бажані дати та кількість мандрівників у формі.</p></div>
+<div class="info-card"><h3>Для партнерів</h3><p>Працюємо з туристичними компаніями та партнерами.</p></div>
+<div class="info-card"><h3>Технологічний партнер</h3><p>ALLADYN TRAVEL TECHNOLOGIES OÜ · Tallinn, Estonia.</p></div>
+</div><section class="section" style="max-width:760px"><h2>Надіслати запит</h2><form id="contactForm" class="info-card"><div class="form-grid">
+<div class="field"><label for="cname">Ваше ім'я *</label><input id="cname" required></div><div class="field"><label for="cphone">Телефон *</label><input id="cphone" required></div>
+<div class="field"><label for="cemail">Email</label><input id="cemail" type="email"></div><div class="field"><label for="ccountry">Бажана країна</label><select id="ccountry"><option>Не визначився / не визначилась</option></select></div>
+<div class="field wide"><label for="cmessage">Побажання</label><textarea id="cmessage" rows="4" placeholder="Дати, кількість туристів, тип відпочинку..."></textarea></div>
+</div><p class="sub" style="font-size:13px;margin:12px 0">Надсилання відкриє поштову програму з підготовленим листом. Автоматичне надсилання без поштової програми потребує підключення сервісу форм.</p><button class="btn primary" type="submit">Підготувати заявку</button></form></section></main>
+
+<footer><div class="wrap foot">
+<div><h3>Time To Travel</h3><p>Тури, спеціальні пропозиції та зручне онлайн-бронювання — усе для вашої подорожі в одному сервісі TimeToTravel.</p></div>
+<div><h4>Навігація</h4><a href="countries.html">Країни</a><a href="hot-tours.html">Гарячі тури</a><a href="early-booking.html">Раннє бронювання</a><a href="contacts.html">Зв'язатися з нами</a></div>
+<div><h4>Technology partner</h4><p><strong>ALLADYN TRAVEL TECHNOLOGIES OÜ</strong><br>Company code: 16387001<br>VAT: EE102485662<br>Narva mnt 7a-616, B corp, 6 floor<br>Kesklinna linnaosa, Tallinn, Harju maakond, 15172, Estonia</p></div>
+</div><div class="copyright">© 2026 Time To Travel. Усі права захищені.</div></footer><div class="toast" id="toast"></div>
+<script src="data.js"></script><script src="countries.js"></script><script src="app.js"></script></body></html>

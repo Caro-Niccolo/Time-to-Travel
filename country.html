@@ -1,0 +1,18 @@
+<!doctype html><html lang="uk"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="Time To Travel — туристичні напрямки, пропозиції та бронювання подорожей."><title>Країна | Time To Travel</title><link rel="stylesheet" href="style.css"></head><body>
+<div class="topbar"><div class="wrap"><span>Подорожі, які надихають</span><span>Time To Travel · туристичний сервіс</span></div></div>
+<header><div class="wrap nav">
+<a class="brand" href="index.html" aria-label="Time To Travel — головна"><img src="assets/logo.png" alt="Time To Travel"></a>
+<button class="menu" aria-label="Відкрити меню" onclick="document.querySelector('.links').classList.toggle('open')">☰</button>
+<nav class="links">
+<a href="index.html" data-nav="home">Головна</a><a href="countries.html" data-nav="countries">Країни</a><a href="hot-tours.html" data-nav="hot">Гарячі тури</a><a href="early-booking.html" data-nav="early">Раннє бронювання</a><a href="about.html" data-nav="about">Про нас</a><a href="contacts.html" data-nav="contacts">Контакти</a>
+</nav></div></header>
+<script>document.querySelector('[data-nav="countries"]')?.classList.add('active');</script>
+<section class="page-hero"><div class="wrap"><div class="kicker" style="color:#b9e8ff">Напрямок</div><h1 id="countryTitle">Країна</h1><p id="countryIntro"></p></div></section>
+<main class="wrap section"><h2>Популярні курорти</h2><p id="countryResorts" class="sub"></p><h2 style="margin-top:35px">Пропозиції цього напрямку</h2><div class="grid" id="countryTours"></div><div class="notice" style="margin-top:25px">Якщо турів поки немає в каталозі, це не означає, що напрямок недоступний. Надішліть запит, щоб уточнити можливості та актуальні пропозиції.</div><p style="margin-top:20px"><a class="btn primary" href="contacts.html">Запитати про подорож</a> <a class="btn outline" href="countries.html">Усі країни</a></p></main>
+
+<footer><div class="wrap foot">
+<div><h3>Time To Travel</h3><p>Тури, спеціальні пропозиції та зручне онлайн-бронювання — усе для вашої подорожі в одному сервісі TimeToTravel.</p></div>
+<div><h4>Навігація</h4><a href="countries.html">Країни</a><a href="hot-tours.html">Гарячі тури</a><a href="early-booking.html">Раннє бронювання</a><a href="contacts.html">Зв'язатися з нами</a></div>
+<div><h4>Technology partner</h4><p><strong>ALLADYN TRAVEL TECHNOLOGIES OÜ</strong><br>Company code: 16387001<br>VAT: EE102485662<br>Narva mnt 7a-616, B corp, 6 floor<br>Kesklinna linnaosa, Tallinn, Harju maakond, 15172, Estonia</p></div>
+</div><div class="copyright">© 2026 Time To Travel. Усі права захищені.</div></footer><div class="toast" id="toast"></div>
+<script src="data.js"></script><script src="countries.js"></script><script src="app.js"></script></body></html>
