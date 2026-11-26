@@ -30,4 +30,4 @@ ENQUIRIES
 The enquiry form and tour buttons create an email using mailto:travelway@tuta.io. This opens the visitor’s email application; it does not send messages automatically from the website. An external form service is required for automatic submissions.
 
 OFFERS
-The catalogue contains six tour records from the source file. Other destinations are listed without invented prices or dates. Please confirm hotel details, prices and availability before accepting bookings.
+The catalogue contains six original tour records plus 132 illustrative sample departures for all 12 destinations, dated 1 January–3 November 2027. These added hotel names and prices are examples, not live inventory. Confirm hotel details, prices and availability before accepting bookings.
